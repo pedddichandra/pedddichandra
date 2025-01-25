@@ -3,7 +3,7 @@
 
 **Data Enthusiast | SQL |Python | Statistics**
 
-I am passionate about data analysis and visualization, and I aim to help businesses make data-driven decisions. Currently, I'm exploring data science, machine learning, and analytics through various projects and also Intrested in .
+I am passionate about data analysis and visualization, and I aim to help businesses make data-driven decisions. Currently, I'm exploring  machine learning, and analytics through various projects and also Intrested in Data Science.
 
 ---
 ### 🌐 Connect with Me
@@ -30,8 +30,10 @@ The project is designed to predict suitable job roles for candidates based on th
  ### 📈 GitHub Stats & Top Languages
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathvik Chandra Peddi&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathvik Chandra Peddi&layout=compact&theme=radical&hide_title=true" width="48%" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=pedddichandra&show_icons=true&theme=radical&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedddichandra&layout=compact&theme=radical&hide_title=true" width="48%" />
+
 </div>
 
  ---
