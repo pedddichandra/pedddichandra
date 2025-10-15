@@ -2,21 +2,23 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Enthusiast+%7C+ML+Engineer+%7C+Analyst;Turning+Data+Into+Insights;Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
+---
+
+## 🚀 About Me
+
+**🎯 Data Enthusiast & ML Engineer** passionate about transforming raw data into actionable business insights.
+
+### 💡 What I Do
+- 🔍 **Data Analysis & Visualization** - Uncovering hidden patterns in complex datasets
+- 🤖 **Machine Learning** - Building predictive models that drive business decisions
+- 📊 **Statistical Modeling** - Applying advanced statistical techniques for insights
+
+### 🎯 My Mission
+> *"Ready to unlock the power of data with you! 🎯"*
+
+I specialize in creating intelligent solutions that help businesses make data-driven decisions through advanced analytics and machine learning techniques.
 
 ---
-## 🚀 About Me
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Sathvik Chandra Peddi"
-        self.role = "Data Enthusiast & ML Engineer"
-        self.passion = ["Data Analysis", "Machine Learning", "Statistics"]
-        self.current_focus = "Building intelligent predictive models"
-        self.goal = "Transforming raw data into actionable business insights"
-    
-    def say_hello(self):
-        return "Ready to unlock the power of data with you! 🎯"
-```
 
 ### 💡 What I Do
 - 🔍 **Data Analysis & Visualization** - Uncovering hidden patterns in complex datasets
